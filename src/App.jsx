@@ -4423,7 +4423,7 @@ export default function MicrosoftAds() {
           <h2 className="ms-closing-title">Your audience is already here.</h2>
           <div className="ms-closing-illustration">
             <ParallaxMedia scaleFrom={0.92} scaleTo={1} radiusFrom={32} radiusTo={20} style={{ width: "100%", maxWidth: 800, margin: "0 auto" }}>
-              <img src="/assets/images/ChatGPT Image 5 de fev. de 2025, 20_02_44.png" alt="Your audience illustration" style={{ width: "100%", height: "auto", display: "block" }} />
+              <img src="/assets/images/miro.png" alt="Your audience illustration" style={{ width: "100%", height: "auto", display: "block" }} />
             </ParallaxMedia>
           </div>
           <p className="ms-closing-body">
